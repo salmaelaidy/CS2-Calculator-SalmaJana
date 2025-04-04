@@ -3,5 +3,5 @@ project(CS2Calculator)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(calculator test.cpp calculator.cpp)
+add_executable(calculator test.cpp calculator.cpp expression_parser.cpp)
 

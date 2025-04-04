@@ -1,5 +1,6 @@
 #include <iostream>
 #include "calculator.h"
+#include "expression_parser.h"
 
 using namespace std;
 
@@ -12,5 +13,11 @@ int main() {
     cout << "GCD: " << gcd(36, 60) << endl;
     cout << "LCM: " << lcm(12, 18) << endl;
     cout << "Random number: " << randomInRange(1, 100) << endl;
-    return 0;
+    string expr = "3 + 4 * (2 - 1) / 5";
+    cout << "Evaluating expression: " << expr << endl;
+
+    double result = evaluate_expression(expr); 
+
+    cout << "Result of evaluating expression " << expr <<": " << result << endl;  
+  return 0;
 }
