@@ -1,0 +1,3 @@
+/Users/salmaelaidy/Desktop/CS2-Calculator-SalmaJana/build/CMakeFiles/calculator.dir
+/Users/salmaelaidy/Desktop/CS2-Calculator-SalmaJana/build/CMakeFiles/edit_cache.dir
+/Users/salmaelaidy/Desktop/CS2-Calculator-SalmaJana/build/CMakeFiles/rebuild_cache.dir
