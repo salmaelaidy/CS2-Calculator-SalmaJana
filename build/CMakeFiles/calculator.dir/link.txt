@@ -1,1 +1,0 @@
-/usr/bin/c++ -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/calculator.dir/test.cpp.o CMakeFiles/calculator.dir/calculator.cpp.o CMakeFiles/calculator.dir/expression_parser.cpp.o -o calculator
